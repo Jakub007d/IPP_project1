@@ -6,3 +6,5 @@ USAGE:
 
 1. parse.php <  input (typ IPPcode22) , output will be shown on STDOUT
 2. parse.php <  input (typ IPPcode22)  > output (typ xml)
+
+readme1.pdf is implementation documentation in slovak.
